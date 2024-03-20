@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @CoqueiroTheFato
+- 👋 Hi, I’m Gustavo coqueiro
 - 👀 I’m interested in JavaScript
 - 🌱 I’m currently learning front-end dev
 
